@@ -1,0 +1,23 @@
+name: emgt
+favicon: null
+layout_spectrum: 0.428488957695663
+typography_spectrum: 0.5900200118776411
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.34375152573920786
+  lightness: 0.4915310915093869
+  saturation: 0.6924393356312066
+  rhythmicContrast: 0.10587032651528716
+purpose: []
